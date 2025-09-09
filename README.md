@@ -9,8 +9,6 @@
 
 <i>⚡ A beautiful and intuitive React Native timer application for tracking countups and countdowns with smart notifications ⚡</i>
 
-![Demo Screenshot](https://via.placeholder.com/800x400/FF96A3/FFFFFF?text=TimeKeeper+Dashboard)
-
 </div>
 
 ---
@@ -64,17 +62,17 @@
 <table align="center">
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br><b>React Native</b><br><sub>Cross-platform Framework</sub></td>
-<td align="center"><img src="https://static.expo.dev/static/brand/square-228x228.png" width="60"/><br><b>Expo SDK</b><br><sub>Development Platform</sub></td>
+<td align="center"><img src="https://docs.expo.dev/static/images/favicon.ico" width="60"/><br><b>Expo SDK</b><br><sub>Development Platform</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/><br><b>TypeScript</b><br><sub>Type Safety</sub></td>
 <td align="center"><img src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" width="60"/><br><b>React Native Paper</b><br><sub>Material Design UI</sub></td>
 <td align="center"><img src="https://docs.swmansion.com/react-native-reanimated/img/logo.svg" width="60"/><br><b>Reanimated</b><br><sub>Smooth Animations</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://github.com/software-mansion/react-native-gesture-handler/raw/main/logo.png" width="60"/><br><b>Gesture Handler</b><br><sub>Touch Interactions</sub></td>
+<td align="center"><img src="https://img.icons8.com/?size=100&id=PDWvBkXoSILB&format=png&color=000000" width="60"/><br><b>Gesture Handler</b><br><sub>Touch Interactions</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br><b>AsyncStorage</b><br><sub>Local Persistence</sub></td>
-<td align="center"><img src="https://date-fns.org/img/logo.png" width="60"/><br><b>date-fns</b><br><sub>Date Manipulation</sub></td>
-<td align="center"><img src="https://static.expo.dev/static/brand/square-228x228.png" width="60"/><br><b>Expo Router</b><br><sub>File-based Navigation</sub></td>
-<td align="center"><img src="https://static.expo.dev/static/brand/square-228x228.png" width="60"/><br><b>Expo Notifications</b><br><sub>Push Notifications</sub></td>
+<td align="center"><img src="https://date-fns.org/static/apple-icon-60x60.png" width="60"/><br><b>date-fns</b><br><sub>Date Manipulation</sub></td>
+<td align="center"><img src="https://docs.expo.dev/static/images/favicon.ico" width="60"/><br><b>Expo Router</b><br><sub>File-based Navigation</sub></td>
+<td align="center"><img src="https://docs.expo.dev/static/images/favicon.ico" width="60"/><br><b>Expo Notifications</b><br><sub>Push Notifications</sub></td>
 </tr>
 </table>
 
@@ -349,14 +347,14 @@ interface CountdownTimer {
 <tr>
 <td align="center">
 <h3>🌞 Light Theme</h3>
-<img src="https://via.placeholder.com/200x300/5DADE2/FFFFFF?text=Light+Theme" alt="Light Theme"/>
+<img src="https://img.icons8.com/?size=100&id=ild3AjQnkUa5&format=png&color=000000" alt="Light Theme"/>
 <br><sub>Professional design for daytime use</sub>
 <br><code>Primary: #5DADE2</code>
 <br><code>Secondary: lightgrey</code>
 </td>
 <td align="center">
 <h3>🌙 Dark Theme</h3>
-<img src="https://via.placeholder.com/200x300/85C1E9/FFFFFF?text=Dark+Theme" alt="Dark Theme"/>
+<img src="https://img.icons8.com/?size=100&id=46264&format=png&color=000000" alt="Dark Theme"/>
 <br><sub>Modern dark UI with blue accents</sub>
 <br><code>Primary: #85C1E9</code>
 <br><code>Secondary: #424242</code>
